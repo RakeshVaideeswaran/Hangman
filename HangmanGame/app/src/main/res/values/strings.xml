@@ -1,0 +1,171 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="scan_hangman">SCAN THE WORD \"HANGMAN\" TO PLAY !!! \n\n CLICK OK TO CONTINUE</string>
+    <string name="scan_success">YOU HAVE SUCCESSFULLY SCANNED THE WORD \"HANGMAN\"</string>
+    <string name="category_chooser">CHOOSE A CATEGORY</string>
+
+    <string-array name="countries">
+        <item>AFGHANISTAN</item>
+        <item>AZERBAIJAN</item>
+        <item>BANGLADESH</item>
+        <item>CAMBODIA</item>
+        <item>DJIBOUTI</item>
+        <item>DOMINICA</item>
+        <item>ECUADOR</item>
+        <item>ESTONIA</item>
+        <item>FIJI</item>
+        <item>FRANCE</item>
+        <item>GERMANY</item>
+        <item>GUINEA</item>
+        <item>HONG KONG</item>
+        <item>HUNGARY</item>
+        <item>INDIA</item>
+        <item>INDONESIA</item>
+        <item>JAMAICA</item>
+        <item>KYRGYZTAN</item>
+        <item>LITHUANIA</item>
+        <item>LUXEMBOURG</item>
+        <item>MADAGASCAR</item>
+        <item>NETHERLANDS</item>
+        <item>PHILIPPINES</item>
+        <item>ROMANIA</item>
+        <item>SINGAPORE</item>
+        <item>TANZANIA</item>
+        <item>UZBEKISTAN</item>
+        <item>VENEZUELA</item>
+        <item>YEMEN</item>
+        <item>ZIMBABWE</item>
+    </string-array>
+
+    <string-array name="animals">
+        <item>LEOPARD</item>
+        <item>CHEETAH</item>
+        <item>TIGER</item>
+        <item>ELEPHANT</item>
+        <item>CROCODILE</item>
+        <item>SNAKE</item>
+        <item>GUINEA PIG</item>
+        <item>WOLF</item>
+        <item>HYENA</item>
+        <item>RHINOCEROS</item>
+        <item>HIPPOPOTAMUS</item>
+        <item>FROG</item>
+        <item>LION</item>
+        <item>GIRAFFE</item>
+        <item>BISON</item>
+        <item>PANTHER</item>
+        <item>BUFFALO</item>
+        <item>PANDA</item>
+        <item>BEAR</item>
+        <item>HORSE</item>
+        <item>DONKEY</item>
+        <item>GOAT</item>
+        <item>SHEEP</item>
+        <item>RACCOON</item>
+        <item>LEMUR</item>
+        <item>GORILLA</item>
+        <item>CAMEL</item>
+        <item>SKUNK</item>
+        <item>COYOTE</item>
+        <item>KOALA</item>
+    </string-array>
+
+    <string-array name="colours">
+        <item>VIOLET</item>
+        <item>PURPLE</item>
+        <item>MAJENTA</item>
+        <item>BLACK</item>
+        <item>BROWN</item>
+        <item>ORANGE</item>
+        <item>LAVENDER</item>
+        <item>INDIGO</item>
+        <item>MAROON</item>
+        <item>GREEN</item>
+        <item>CYAN</item>
+        <item>TURQUOISE</item>
+        <item>SILVER</item>
+        <item>GOLD</item>
+        <item>WHITE</item>
+        <item>YELLOW</item>
+        <item>BLUE</item>
+        <item>AZURE</item>
+        <item>CARAMEL</item>
+        <item>COLA</item>
+        <item>COFFEE</item>
+        <item>CORAL</item>
+        <item>CREAM</item>
+        <item>PEACH</item>
+        <item>DAFFODIL</item>
+        <item>DENIM</item>
+        <item>EBONY</item>
+        <item>EMERALD</item>
+        <item>ECRU</item>
+        <item>CRIMSON</item>
+    </string-array>
+
+    <string-array name="vegetables">
+        <item>POTATO</item>
+        <item>CARROT</item>
+        <item>CAPSICUM</item>
+        <item>CUCUMBER</item>
+        <item>ONION</item>
+        <item>CABBAGE</item>
+        <item>EGGPLANT</item>
+        <item>PEA</item>
+        <item>GARLIC</item>
+        <item>SPINACH</item>
+        <item>TURNIP</item>
+        <item>BROCCOLI</item>
+        <item>BEAN</item>
+        <item>LETTUCE</item>
+        <item>ZUCCHINI</item>
+        <item>CAULIFLOWER</item>
+        <item>BITTER GOURD</item>
+        <item>PUMPKIN</item>
+        <item>KOHLRABI</item>
+        <item>LEEK</item>
+        <item>OKRA</item>
+        <item>SNAKE GOURD</item>
+        <item>BOTTLE GOURD</item>
+        <item>TAPIOCA</item>
+        <item>SWEET POTATO</item>
+        <item>YAM</item>
+        <item>DRUMSTICK</item>
+        <item>LADIES FINGER</item>
+        <item>RADISH</item>
+        <item>BEETROOT</item>
+    </string-array>
+
+    <string-array name="fruits">
+        <item>BANANA</item>
+        <item>ORANGE</item>
+        <item>APPLE</item>
+        <item>GRAPE</item>
+        <item>PINEAPPLE</item>
+        <item>PEAR</item>
+        <item>WATERMELON</item>
+        <item>APRICOT</item>
+        <item>MANGO</item>
+        <item>FIG</item>
+        <item>STRAWBERRY</item>
+        <item>CHERRY</item>
+        <item>PLUM</item>
+        <item>PEACH</item>
+        <item>PAPAYA</item>
+        <item>PALM</item>
+        <item>KIWI</item>
+        <item>POMEGRANATE</item>
+        <item>LYCHEE</item>
+        <item>AVOCADO</item>
+        <item>MUSKMELON</item>
+        <item>CRANBERRY</item>
+        <item>GUAVA</item>
+        <item>RASPBERRY</item>
+        <item>LIME</item>
+        <item>AMLA</item>
+        <item>JACKFRUIT</item>
+        <item>TOMATO</item>
+        <item>SAPOTA</item>
+        <item>CUSTARD APPLE</item>
+    </string-array>
+</resources>
